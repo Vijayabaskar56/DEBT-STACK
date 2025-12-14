@@ -1,0 +1,1 @@
+ALTER TABLE `todos` ADD `completed` integer DEFAULT false;
